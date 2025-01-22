@@ -8,7 +8,6 @@ This project demonstrates a basic Amazon product block using React.js. It showca
 - **Product Title**: Shows the name of the product.
 - **Product Price**: Displays the price of the product.
 - **Product Description**: Provides a brief description of the product.
-- **Responsive Design**: Adapts the layout for various screen sizes to enhance user experience.
 
 ## Installation
 
