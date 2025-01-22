@@ -1,0 +1,11 @@
+.price{
+    background-color: rgb(255, 255, 9);
+    border-radius: 0px 0px 10px 10px;
+    color: black;
+    display:flex;
+}
+.both-price{
+    display: flex;
+    margin: 0px 30px 0px 30px;
+    gap: 30px;
+}

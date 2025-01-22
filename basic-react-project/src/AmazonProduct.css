@@ -1,0 +1,25 @@
+.product{
+    background-color: rgb(0, 189, 189);
+    border-radius: 10px 10px 10px 10px;
+    color: black;
+    max-height:300px;
+    margin:40px 10px 10px 10px;
+   
+
+}
+
+.product-container{
+    display: flex;
+    background-color: aliceblue;
+    max-height: 500px;
+    max-width:100%;
+    border-radius: 10px;
+}
+.header{
+    color: #000;
+    background-color: aliceblue;
+    height:0;
+    position:relative ;
+    top: 10px;
+}
+
